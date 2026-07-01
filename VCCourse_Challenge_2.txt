@@ -1,0 +1,1 @@
+This is a second text file using git bash for course assignment
